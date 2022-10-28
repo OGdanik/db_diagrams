@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-28T05:26:58.106Z" agent="5.0 (Windows)" etag="wbN_GIHyxGX452JBwbuY" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-28T05:27:09.558Z" agent="5.0 (Windows)" etag="KT1dX_sGEuu79mMfOoVp" version="20.5.1" type="github">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="2066" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -211,16 +211,16 @@
         <mxCell id="wyc7OIWixu-rkBDjUx6X-89" value="id_people" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;rounded=1;shadow=0;glass=1;sketch=0;fontStyle=0" vertex="1" parent="wyc7OIWixu-rkBDjUx6X-87">
           <mxGeometry y="60" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wyc7OIWixu-rkBDjUx6X-90" value="date" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;rounded=1;shadow=0;glass=1;sketch=0;fontStyle=0" vertex="1" parent="wyc7OIWixu-rkBDjUx6X-87">
+        <mxCell id="wyc7OIWixu-rkBDjUx6X-92" value="id_type_of_zakaz" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;rounded=1;shadow=0;glass=1;sketch=0;fontStyle=0" vertex="1" parent="wyc7OIWixu-rkBDjUx6X-87">
           <mxGeometry y="90" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wyc7OIWixu-rkBDjUx6X-91" value="sum" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;rounded=1;shadow=0;glass=1;sketch=0;fontStyle=0" vertex="1" parent="wyc7OIWixu-rkBDjUx6X-87">
+        <mxCell id="wyc7OIWixu-rkBDjUx6X-108" value="id_sotrudnik" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;rounded=1;shadow=0;glass=1;sketch=0;fontStyle=0" vertex="1" parent="wyc7OIWixu-rkBDjUx6X-87">
           <mxGeometry y="120" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wyc7OIWixu-rkBDjUx6X-92" value="id_type_of_zakaz" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;rounded=1;shadow=0;glass=1;sketch=0;fontStyle=0" vertex="1" parent="wyc7OIWixu-rkBDjUx6X-87">
+        <mxCell id="wyc7OIWixu-rkBDjUx6X-91" value="sum" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;rounded=1;shadow=0;glass=1;sketch=0;fontStyle=0" vertex="1" parent="wyc7OIWixu-rkBDjUx6X-87">
           <mxGeometry y="150" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wyc7OIWixu-rkBDjUx6X-108" value="id_sotrudnik" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;rounded=1;shadow=0;glass=1;sketch=0;fontStyle=0" vertex="1" parent="wyc7OIWixu-rkBDjUx6X-87">
+        <mxCell id="wyc7OIWixu-rkBDjUx6X-90" value="date" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;rounded=1;shadow=0;glass=1;sketch=0;fontStyle=0" vertex="1" parent="wyc7OIWixu-rkBDjUx6X-87">
           <mxGeometry y="180" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wyc7OIWixu-rkBDjUx6X-93" value="zakaz_tovar" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;glass=1;sketch=0;gradientColor=none;fillColor=#fff2cc;strokeColor=#d6b656;swimlaneFillColor=default;" vertex="1" parent="1">
