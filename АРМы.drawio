@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-23T04:52:38.860Z" agent="5.0 (Windows)" etag="svoJSZJ4PP9gEgw-q6rs" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-23T04:53:14.908Z" agent="5.0 (Windows)" etag="TWwrqncwhof3kDZentt5" version="20.7.4" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="2357" dy="1521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -252,7 +252,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T5hlyo-ahhFVCAqhgBuh-106" value="status" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillStyle=auto;shadow=0;glass=0;rounded=1;arcSize=17;" vertex="1" parent="1">
-          <mxGeometry x="740" y="-600" width="140" height="90" as="geometry" />
+          <mxGeometry x="730" y="-580" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="T5hlyo-ahhFVCAqhgBuh-107" value="ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="T5hlyo-ahhFVCAqhgBuh-106">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -261,21 +261,13 @@
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T5hlyo-ahhFVCAqhgBuh-109" value="type_of_zakaz" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillStyle=auto;shadow=0;glass=0;rounded=1;arcSize=17;" vertex="1" parent="1">
-          <mxGeometry x="740" y="-510" width="140" height="90" as="geometry" />
+          <mxGeometry x="560" y="-450" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="T5hlyo-ahhFVCAqhgBuh-110" value="ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="T5hlyo-ahhFVCAqhgBuh-109">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T5hlyo-ahhFVCAqhgBuh-111" value="name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="T5hlyo-ahhFVCAqhgBuh-109">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="T5hlyo-ahhFVCAqhgBuh-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T5hlyo-ahhFVCAqhgBuh-105" target="T5hlyo-ahhFVCAqhgBuh-109">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="540" y="-435" />
-              <mxPoint x="540" y="-465" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="T5hlyo-ahhFVCAqhgBuh-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T5hlyo-ahhFVCAqhgBuh-113" target="T5hlyo-ahhFVCAqhgBuh-107">
           <mxGeometry relative="1" as="geometry" />
@@ -287,6 +279,9 @@
               <mxPoint x="100" y="55" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="T5hlyo-ahhFVCAqhgBuh-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T5hlyo-ahhFVCAqhgBuh-105" target="T5hlyo-ahhFVCAqhgBuh-110">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
